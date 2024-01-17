@@ -1,0 +1,29 @@
+
+================================================================
+======== Log Rotated - 19.11.2023, 00:00:02                     
+================================================================
+[ citizen-server-impl] sync thread hitch warning: timer interval of 108 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 119 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 109 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 107 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+> txaEvent "adminsUpdated" "[]"
+[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 153 milliseconds
+[ citizen-server-impl] [0msync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 105 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 160 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 135 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 104 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 110 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 158 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 126 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 115 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 120 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 151 milliseconds
+[script:esx_vehiclesh] [INFO] Rent Payments Initiated
+[script:esx_vehiclesh] [INFO] Rent Payments took [36m1699.74 ms to execute
+[ citizen-server-impl] sync thread hitch warning: timer interval of 123 milliseconds

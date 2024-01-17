@@ -1,0 +1,17 @@
+
+================================================================
+======== Log Rotated - 18.11.2023, 00:00:02                     
+================================================================
+[ citizen-server-impl] sync thread hitch warning: timer interval of 123 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 157 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 134 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 125 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 118 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 181 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 128 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 181 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 141 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 181 milliseconds
+[script:esx_vehiclesh] [INFO] Rent Payments Initiated
+[script:esx_vehiclesh] [INFO] Rent Payments took 1699.74 ms to execute

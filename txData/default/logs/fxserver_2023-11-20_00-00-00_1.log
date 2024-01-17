@@ -1,0 +1,8 @@
+
+================================================================
+======== Log Rotated - 20.11.2023, 00:00:02                     
+================================================================
+[ citizen-server-impl] sync thread hitch warning: timer interval of 105 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 160 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 123 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 174 milliseconds

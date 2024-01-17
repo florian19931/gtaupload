@@ -1,0 +1,1264 @@
+
+================================================================
+======== Log Rotated - 17.01.2024, 15:29:00                     
+================================================================
+
+================================================================
+======== FXServer Starting - 17.01.2024, 15:29:05               
+================================================================
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[                 cmd] No such command OneSync.
+[           resources] Scanning resources.
+[           resources] [32mFound 88 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] [0mCreating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[    c-scripting-core] Creating script environments for async
+[           resources] Started resource async
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx-radio
+[           resources] Started resource esx-radio
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] [97mCreating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] [97mCreating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] [97mCreating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] [0mStarted resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] [0mStarted resource esx_shops
+[    c-scripting-core] [97mCreating script environments for esx_sit
+[           resources] Started resource esx_sit
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[    c-scripting-core] Creating script environments for gksphone
+[     script:gksphone] -------------------------------------------------------------------------
+[     script:gksphone] [DECRYPTER] Phone finished loading! | https://discord.gg/DZ9JtpYj9h 
+[     script:gksphone] -------------------------------------------------------------------------
+[  resources:gksphone] [97mWarning: could not find file `html/static/img/newtheme/menu/*.png` (defined in fxmanifest.lua:10)
+[  resources:gksphone] Warning: could not find file `html/static/img/newtheme/message/*.png` (defined in fxmanifest.lua:10)
+[  resources:gksphone] Warning: could not find file `html/static/img/**/*.svg` (defined in fxmanifest.lua:10)
+[           resources] Started resource gksphone (3 warnings)
+[    c-scripting-core] Creating script environments for screenshot-basic
+[ citizen-server-impl] sync thread hitch warning: timer interval of 114 milliseconds
+[           resources] Started resource screenshot-basic
+[    c-scripting-core] Creating script environments for vMenu
+[        script:vMenu] Instantiated instance of script vMenuServer.BanManager.
+[        script:vMenu] Instantiated instance of script vMenuServer.MainServer.
+[           resources] Started resource vMenu
+[    c-scripting-core] Creating script environments for interact-sound
+[           resources] [0mStarted resource interact-sound
+[    c-scripting-core] Creating script environments for inventaire
+[           resources] Started resource inventaire
+[    c-scripting-core] Creating script environments for lj-hud
+[           resources] Started resource lj-hud
+[           resources] Started resource sKnockOut
+[    c-scripting-core] Creating script environments for sModule
+[           resources] Started resource sModule
+[    c-scripting-core] Creating script environments for skin
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/de.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/br.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] [0mWarning: could not find client_script `esx_skin/locales/en.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/fi.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/fr.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/sv.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/pl.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/config.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/client/main.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/locale.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/locales/fr.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/config.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/client/main.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/de.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/br.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/en.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/fi.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/fr.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/sv.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/pl.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/config.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/server/main.lua` (defined in fxmanifest.lua:25)
+[           resources] Started resource skin (22 warnings)
+[    c-scripting-core] Creating script environments for zCharacterCreator
+[           resources] [0mStarted resource zCharacterCreator
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] server thread hitch warning: timer interval of 319 milliseconds
+[      script:oxmysql] [0m[10.5.18-MariaDB-0+deb11u1] Database server connection established!
+[      script:esx_hud] [INFO] esx_hud: Latest version: 1.7.0
+[      script:esx_hud] [INFO] esx_hud: Your version: 1.6.0
+[      script:esx_hud] [INFO] esx_hud: You need download latest version! You are using an old version at the moment!
+[ citizen-server-impl] [91m        fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://florian-durrer-ka8jpv.users.cfx.re/
+[      script:oxmysql] An update is available for oxmysql (current version: 2.7.5)
+[      script:oxmysql] https://github.com/overextended/oxmysql/releases/tag/v2.7.7
+[ citizen-server-impl] -- [server notice: stay_secure]
+[ citizen-server-impl] IMPORTANT NOTICE: We strongly suggest you update FXServer to the newest recommended version, 7290, or higher. It includes a fix for a Denial Of Service vulnerability. This notice will disappear once you're up to date.
+[ citizen-server-impl] 
+[  script:es_extended] [INFO] ESX Legacy 1.9.2 initialized!
+[ script:esx_property] [0m[INFO] Added Property into datastore_data table
+[ citizen-server-impl] sync thread hitch warning: timer interval of 107 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 944 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 729 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 1065 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 304 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 360 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 168 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 205 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 416 milliseconds
+> txaEvent "adminsUpdated" "[]"
+> txaEvent "adminsUpdated" "[]"
+> txaEvent "serverShuttingDown" "{＂delay＂:5000,＂author＂:＂Florian_Durrer＂,＂message＂:＂Fermeture du serveur (requested by Florian_Durrer).＂}"
+[      script:monitor] [txAdmin] Server shutdown imminent. Kicking all players.
+
+================================================================
+======== FXServer Starting - 17.01.2024, 15:38:18               
+================================================================
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[                 cmd] No such command OneSync.
+[           resources] Scanning resources.
+[           resources] [32mFound 88 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[    c-scripting-core] [97mCreating script environments for async
+[           resources] Started resource async
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[           resources] Started resource esx_menu_list
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[           resources] Started resource skinchanger
+[38;5;161m[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[    c-scripting-core] Creating script environments for pma-voice
+[ citizen-server-impl] sync thread hitch warning: timer interval of 121 milliseconds
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx-radio
+[           resources] Started resource esx-radio
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] [97mCreating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] [97mCreating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] [97mCreating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[    c-scripting-core] [97mCreating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] [97mCreating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] [97mCreating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_sit
+[           resources] Started resource esx_sit
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[    c-scripting-core] Creating script environments for gksphone
+[     script:gksphone] -------------------------------------------------------------------------
+[     script:gksphone] [DECRYPTER] Phone finished loading! | https://discord.gg/DZ9JtpYj9h 
+[     script:gksphone] -------------------------------------------------------------------------
+[  resources:gksphone] Warning: could not find file `html/static/img/newtheme/menu/*.png` (defined in fxmanifest.lua:10)
+[  resources:gksphone] Warning: could not find file `html/static/img/newtheme/message/*.png` (defined in fxmanifest.lua:10)
+[  resources:gksphone] Warning: could not find file `html/static/img/**/*.svg` (defined in fxmanifest.lua:10)
+[           resources] Started resource gksphone (3 warnings)
+[    c-scripting-core] Creating script environments for screenshot-basic
+[           resources] Started resource screenshot-basic
+[    c-scripting-core] [0mCreating script environments for vMenu
+[        script:vMenu] Instantiated instance of script vMenuServer.BanManager.
+[        script:vMenu] Instantiated instance of script vMenuServer.MainServer.
+[           resources] Started resource vMenu
+[    c-scripting-core] Creating script environments for interact-sound
+[           resources] Started resource interact-sound
+[    c-scripting-core] Creating script environments for inventaire
+[           resources] Started resource inventaire
+[    c-scripting-core] Creating script environments for lj-hud
+[           resources] Started resource lj-hud
+[           resources] Started resource sKnockOut
+[    c-scripting-core] [0mCreating script environments for sModule
+[           resources] Started resource sModule
+[    c-scripting-core] Creating script environments for skin
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/de.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/br.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/en.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/fi.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/fr.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/sv.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/pl.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/config.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/client/main.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/locale.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/locales/fr.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/config.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/client/main.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/de.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/br.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/en.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/fi.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/fr.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] [0mWarning: could not find server_script `esx_skin/locales/sv.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/pl.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/config.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/server/main.lua` (defined in fxmanifest.lua:25)
+[           resources] Started resource skin (22 warnings)
+[    c-scripting-core] Creating script environments for zCharacterCreator
+[           resources] Started resource zCharacterCreator
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] server thread hitch warning: timer interval of 261 milliseconds
+[      script:oxmysql] [10.5.18-MariaDB-0+deb11u1] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://florian-durrer-ka8jpv.users.cfx.re/
+[  script:es_extended] [INFO] ESX Legacy 1.9.2 initialized!
+[      script:oxmysql] An update is available for oxmysql (current version: 2.7.5)
+[      script:oxmysql] https://github.com/overextended/oxmysql/releases/tag/v2.7.7
+[      script:esx_hud] [INFO[0m] esx_hud: Latest version: 1.7.0
+[      script:esx_hud] [INFO] esx_hud: Your version: 1.6.0
+[      script:esx_hud] [INFO] esx_hud: You need download latest version! You are using an old version at the moment!
+[ script:esx_property] [INFO] Added Property into datastore_data table
+> txaEvent "adminsUpdated" "[]"
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+> setr "txAdmin-locale" "fr"
+> set "txAdmin-localeFile" "C:\GTA\txData\locale.json"
+> setr "txAdmin-verbose" "false"
+> set "txAdmin-checkPlayerJoin" "true"
+> set "txAdmin-menuAlignRight" "false"
+> set "txAdmin-menuPageKey" "Tab"
+> set "txAdmin-hideDefaultAnnouncement" "false"
+> set "txAdmin-hideDefaultDirectMessage" "false"
+> set "txAdmin-hideDefaultWarning" "false"
+> set "txAdmin-hideDefaultScheduledRestartWarning" "false"
+> txaEvent "configChanged" "{}"
+[ citizen-server-impl] [91mServer list query returned an error: System.Net.Sockets.SocketException: Host is unreachable <- System.Net.Http.HttpRequestException: Host is unreachable (188.63.96.17:30120)
+[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 107 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 110 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Host is unreachable <- System.Net.Http.HttpRequestException: Host is unreachable (188.63.96.17:30120)
+[ citizen-server-impl] [91mServer list query returned an error: System.Net.Sockets.SocketException: Host is unreachable <- System.Net.Http.HttpRequestException: Host is unreachable (188.63.96.17:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Host is unreachable <- System.Net.Http.HttpRequestException: Host is unreachable (188.63.96.17:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Host is unreachable <- System.Net.Http.HttpRequestException: Host is unreachable (188.63.96.17:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Host is unreachable <- System.Net.Http.HttpRequestException: Host is unreachable (188.63.96.17:30120)
+[ citizen-server-impl] [91mServer list query returned an error: System.Net.Sockets.SocketException: Host is unreachable <- System.Net.Http.HttpRequestException: Host is unreachable (188.63.96.17:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Host is unreachable <- System.Net.Http.HttpRequestException: Host is unreachable (188.63.96.17:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Host is unreachable <- System.Net.Http.HttpRequestException: Host is unreachable (188.63.96.17:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Host is unreachable <- System.Net.Http.HttpRequestException: Host is unreachable (188.63.96.17:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Host is unreachable <- System.Net.Http.HttpRequestException: Host is unreachable (188.63.96.17:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Host is unreachable <- System.Net.Http.HttpRequestException: Host is unreachable (188.63.96.17:30120)
+
+================================================================
+======== FXServer Starting - 17.01.2024, 17:59:24               
+================================================================
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[                 cmd] No such command OneSync.
+[           resources] Scanning resources.
+[           resources] Found 88 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+> txaEvent "adminsUpdated" "[]"
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[    c-scripting-core] Creating script environments for async
+[           resources] Started resource async
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] [0mStarted resource esx_menu_list
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] [97mCreating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] [0mStarted resource pma-voice
+[    c-scripting-core] Creating script environments for esx-radio
+[           resources] Started resource esx-radio
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] [97mStarted resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] [0mStarted resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_sit
+[           resources] Started resource esx_sit
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[    c-scripting-core] Creating script environments for gksphone
+[     script:gksphone] -------------------------------------------------------------------------
+[     script:gksphone] [DECRYPTER] Phone finished loading! | https://discord.gg/DZ9JtpYj9h 
+[     script:gksphone] -------------------------------------------------------------------------
+[  resources:gksphone] Warning: could not find file `html/static/img/newtheme/menu/*.png` (defined in fxmanifest.lua:10)
+[  resources:gksphone] Warning: could not find file `html/static/img/newtheme/message/*.png` (defined in fxmanifest.lua:10)
+[  resources:gksphone] Warning: could not find file `html/static/img/**/*.svg` (defined in fxmanifest.lua:10)
+[           resources] Started resource gksphone (3 warnings)
+[    c-scripting-core] Creating script environments for screenshot-basic
+[           resources] Started resource screenshot-basic
+[    c-scripting-core] Creating script environments for vMenu
+[        script:vMenu] Instantiated instance of script vMenuServer.BanManager.
+[        script:vMenu] Instantiated instance of script vMenuServer.MainServer.
+[           resources] Started resource vMenu
+[    c-scripting-core] Creating script environments for interact-sound
+[           resources] Started resource interact-sound
+[    c-scripting-core] Creating script environments for inventaire
+[           resources] Started resource inventaire
+[    c-scripting-core] Creating script environments for lj-hud
+[           resources] Started resource lj-hud
+[           resources] Started resource sKnockOut
+[    c-scripting-core] Creating script environments for sModule
+[           resources] Started resource sModule
+[    c-scripting-core] Creating script environments for skin
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/de.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/br.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/en.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/fi.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/fr.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/sv.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/pl.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/config.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/client/main.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/locale.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/locales/fr.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/config.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/client/main.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/de.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/br.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/en.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/fi.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/fr.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/sv.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/pl.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/config.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/server/main.lua` (defined in fxmanifest.lua:25)
+[           resources] Started resource skin (22 warnings)
+[    c-scripting-core] Creating script environments for zCharacterCreator
+[           resources] Started resource zCharacterCreator
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] server thread hitch warning: timer interval of 315 milliseconds
+[      script:oxmysql] [10.5.18-MariaDB-0+deb11u1] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://florian-durrer-ka8jpv.users.cfx.re/
+[      script:oxmysql] An update is available for oxmysql (current version: 2.7.5)
+[      script:oxmysql] https://github.com/overextended/oxmysql/releases/tag/v2.7.7
+[      script:esx_hud] [INFO] esx_hud: Latest version: 1.7.0
+[      script:esx_hud] [INFO] esx_hud: Your version: 1.6.0
+[      script:esx_hud] [INFO] esx_hud: You need download latest version! You are using an old version at the moment!
+[  script:es_extended] [INFO] ESX Legacy 1.9.2 initialized!
+[ script:esx_property] [INFO] Added Property[0m into datastore_data table
+[ citizen-server-impl] [0msync thread hitch warning: timer interval of 158 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Host is unreachable <- System.Net.Http.HttpRequestException: Host is unreachable (188.63.96.17:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Host is unreachable <- System.Net.Http.HttpRequestException: Host is unreachable (188.63.96.17:30120)
+[      script:hardcap] Connecting: Flo_swiss
+[ citizen-server-impl] server thread hitch warning: timer interval of 372 milliseconds
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 105 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 151 milliseconds
+> txaEvent "serverShuttingDown" "{＂delay＂:5000,＂author＂:＂Florian_Durrer＂,＂message＂:＂Le serveur redémarre (requested by Florian_Durrer).＂}"
+[      script:monitor] [txAdmin] Server shutdown imminent. Kicking all players.
+
+================================================================
+======== FXServer Starting - 17.01.2024, 18:12:28               
+================================================================
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[                 cmd] No such command OneSync.
+[           resources] Scanning resources.
+[           resources] Found 88 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] [0mCreating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[    c-scripting-core] Creating script environments for async
+[           resources] Started resource async
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] [0mCreating script environments for esx_textui
+[           resources] Started resource esx_textui
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx-radio
+[           resources] Started resource esx-radio
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] [97mCreating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] [0mCreating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_sit
+[           resources] Started resource esx_sit
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[    c-scripting-core] Creating script environments for gksphone
+[     script:gksphone] -------------------------------------------------------------------------
+[     script:gksphone] [DECRYPTER] Phone finished loading! | https://discord.gg/DZ9JtpYj9h 
+[     script:gksphone] -------------------------------------------------------------------------
+[  resources:gksphone] Warning: could not find file `html/static/img/newtheme/menu/*.png` (defined in fxmanifest.lua:10)
+[  resources:gksphone] Warning: could not find file `html/static/img/newtheme/message/*.png` (defined in fxmanifest.lua:10)
+[  resources:gksphone] Warning: could not find file `html/static/img/**/*.svg` (defined in fxmanifest.lua:10)
+[           resources] Started resource gksphone (3 warnings)
+[    c-scripting-core] Creating script environments for screenshot-basic
+[           resources] Started resource screenshot-basic
+[    c-scripting-core] Creating script environments for vMenu
+[        script:vMenu] Instantiated instance of script vMenuServer.BanManager.
+[        script:vMenu] Instantiated instance of script vMenuServer.MainServer.
+[           resources] Started resource vMenu
+[    c-scripting-core] Creating script environments for interact-sound
+[           resources] Started resource interact-sound
+[    c-scripting-core] Creating script environments for inventaire
+[           resources] Started resource inventaire
+[    c-scripting-core] Creating script environments for lj-hud
+[           resources] Started resource lj-hud
+[           resources] Started resource sKnockOut
+[    c-scripting-core] Creating script environments for sModule
+[           resources] Started resource sModule
+[    c-scripting-core] Creating script environments for skin
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/de.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/br.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/en.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/fi.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/fr.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/sv.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/pl.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/config.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/client/main.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/locale.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/locales/fr.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/config.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/client/main.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/de.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/br.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/en.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/fi.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/fr.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/sv.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/pl.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/config.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/server/main.lua` (defined in fxmanifest.lua:25)
+[           resources] Started resource skin (22 warnings)
+[    c-scripting-core] Creating script environments for zCharacterCreator
+[           resources] Started resource zCharacterCreator
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] server thread hitch warning: timer interval of 315 milliseconds
+[      script:oxmysql] [10.5.18-MariaDB-0+deb11u1] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://florian-durrer-ka8jpv.users.cfx.re/
+[      script:oxmysql] An update is available for oxmysql (current version: 2.7.5)
+[      script:oxmysql] https://github.com/overextended/oxmysql/releases/tag/v2.7.7
+[  script:es_extended] [INFO] ESX Legacy 1.9.2 initialized!
+[      script:esx_hud] [INFO] esx_hud: Latest version: 1.7.0
+[      script:esx_hud] [INFO] esx_hud: Your version: 1.6.0
+[      script:esx_hud] [INFO] esx_hud: You need download latest version! You are using an old version at the moment!
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[      script:hardcap] Connecting: Flo_swiss
+[ citizen-server-impl] server thread hitch warning: timer interval of 216 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 211 milliseconds
+[      script:esx_hud] [ERROR] esx_hud: Setup your custom fuel resource at: client/vehicle/fuel.lua
+[ citizen-server-impl] server thread hitch warning: timer interval of 503 milliseconds
+[  script:es_extended] [INFO] Player 1 Has been granted admin permissions via Ace Perms.
+[  script:es_extended] [INFO] Player "Flo_swiss" has connected to the server. ID: 1
+> txaEvent "announcement" "{＂message＂:＂Salut tous les pd＂,＂author＂:＂Florian_Durrer＂}"
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+> txaEvent "announcement" "{＂message＂:＂SALUT LES PD＂,＂author＂:＂Florian_Durrer＂}"
+[  script:es_extended] [INFO[0m] Saved 1 player over 0.0 ms
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+
+================================================================
+======== FXServer Starting - 17.01.2024, 18:51:32               
+================================================================
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[                 cmd] No such command OneSync.
+[           resources] Scanning resources.
+[           resources] Found 88 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] [97mCreating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[    c-scripting-core] Creating script environments for async
+[           resources] Started resource async
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx-radio
+[           resources] Started resource esx-radio
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] [97mCreating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] [97mStarted resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] [0mCreating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] [97mCreating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] [0mStarted resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] [0mCreating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_sit
+[           resources] Started resource esx_sit
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[    c-scripting-core] Creating script environments for gksphone
+[     script:gksphone] -------------------------------------------------------------------------
+[     script:gksphone] [DECRYPTER] Phone finished loading! | https://discord.gg/DZ9JtpYj9h 
+[     script:gksphone] -------------------------------------------------------------------------
+[  resources:gksphone] Warning: could not find file `html/static/img/newtheme/menu/*.png` (defined in fxmanifest.lua:10)
+[  resources:gksphone] Warning: could not find file `html/static/img/newtheme/message/*.png` (defined in fxmanifest.lua:10)
+[  resources:gksphone] [0mWarning: could not find file `html/static/img/**/*.svg` (defined in fxmanifest.lua:10)
+[           resources] Started resource gksphone (3 warnings)
+[    c-scripting-core] Creating script environments for screenshot-basic
+[           resources] Started resource screenshot-basic
+[    c-scripting-core] Creating script environments for vMenu
+[        script:vMenu] Instantiated instance of script vMenuServer.BanManager.
+[        script:vMenu] Instantiated instance of script vMenuServer.MainServer.
+[           resources] Started resource vMenu
+[    c-scripting-core] [0mCreating script environments for interact-sound
+[           resources] Started resource interact-sound
+[    c-scripting-core] Creating script environments for inventaire
+[           resources] Started resource inventaire
+[    c-scripting-core] Creating script environments for lj-hud
+[           resources] Started resource lj-hud
+[           resources] Started resource sKnockOut
+[    c-scripting-core] Creating script environments for sModule
+[           resources] Started resource sModule
+[    c-scripting-core] Creating script environments for skin
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/de.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/br.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/en.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/fi.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/fr.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/sv.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/pl.lua` (defined in fxmanifest.lua:4)
+[38;5;35m[      resources:skin] Warning: could not find client_script `esx_skin/config.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/client/main.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/locale.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/locales/fr.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/config.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/client/main.lua` (defined in fxmanifest.lua:4)
+[38;5;35m[      resources:skin] Warning: could not find server_script `esx_skin/locales/de.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/br.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/en.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/fi.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/fr.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/sv.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/pl.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/config.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/server/main.lua` (defined in fxmanifest.lua:25)
+[           resources] Started resource skin (22 warnings)
+[    c-scripting-core] Creating script environments for zCharacterCreator
+[           resources] Started resource zCharacterCreator
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] server thread hitch warning: timer interval of 327 milliseconds
+[      script:oxmysql] [10.5.18-MariaDB-0+deb11u1] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl] [91m  cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://florian-durrer-ka8jpv.users.cfx.re/
+[      script:esx_hud] [INFO] esx_hud: Latest version: 1.7.0
+[      script:esx_hud] [INFO] esx_hud: Your version: 1.6.0
+[      script:esx_hud] [INFO] esx_hud: You need download latest version! You are using an old version at the moment!
+[      script:oxmysql] An update is available for oxmysql (current version: 2.7.5)
+[      script:oxmysql] https://github.com/overextended/oxmysql/releases/tag/v2.7.7
+[  script:es_extended] [INFO] ESX Legacy 1.9.2 initialized!
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[      script:hardcap] Connecting: Flo_swiss
+[ citizen-server-impl] server thread hitch warning: timer interval of 340 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 209 milliseconds
+[      script:esx_hud] [ERROR] [93mesx_hud: Setup your custom fuel resource at: client/vehicle/fuel.lua
+[ citizen-server-impl] server thread hitch warning: timer interval of 501 milliseconds
+[  script:es_extended] [INFO] Player "joe delabrand" has connected to the server. ID: 1
+[  script:es_extended] [0m[INFO] Saved 1 player over 0.0 ms
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[ citizen-server-impl] server thread hitch warning: timer interval of 161 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 144 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 236 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 285 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 107 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 122 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 173 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 123 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 162 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 173 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 193 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 138 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 166 milliseconds
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[ citizen-server-impl] sync thread hitch warning: timer interval of 107 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+
+================================================================
+======== FXServer Starting - 17.01.2024, 19:51:48               
+================================================================
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[                 cmd] No such command OneSync.
+[           resources] Scanning resources.
+[           resources] Found 88 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] [97mCreating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] [97mCreating script environments for oxmysql
+[           resources] Started resource oxmysql
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[    c-scripting-core] Creating script environments for async
+[           resources] Started resource async
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[38;5;161m[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx-radio
+[           resources] Started resource esx-radio
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] [0mCreating script environments for esx_joblisting
+[           resources] [0mStarted resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_sit
+[           resources] Started resource esx_sit
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[    c-scripting-core] Creating script environments for gksphone
+[     script:gksphone] -------------------------------------------------------------------------
+[     script:gksphone] [DECRYPTER] Phone finished loading! | https://discord.gg/DZ9JtpYj9h 
+[     script:gksphone] -------------------------------------------------------------------------
+[  resources:gksphone] Warning: could not find file `html/static/img/newtheme/menu/*.png` (defined in fxmanifest.lua:10)
+[  resources:gksphone] Warning: could not find file `html/static/img/newtheme/message/*.png` (defined in fxmanifest.lua:10)
+[  resources:gksphone] Warning: could not find file `html/static/img/**/*.svg` (defined in fxmanifest.lua:10)
+[           resources] Started resource gksphone (3 warnings)
+[    c-scripting-core] Creating script environments for screenshot-basic
+[           resources] Started resource screenshot-basic
+[    c-scripting-core] Creating script environments for vMenu
+[        script:vMenu] Instantiated instance of script vMenuServer.BanManager.
+[        script:vMenu] Instantiated instance of script vMenuServer.MainServer.
+[           resources] Started resource vMenu
+[    c-scripting-core] Creating script environments for interact-sound
+[           resources] Started resource interact-sound
+[    c-scripting-core] Creating script environments for inventaire
+[           resources] Started resource inventaire
+[    c-scripting-core] Creating script environments for lj-hud
+[           resources] Started resource lj-hud
+[           resources] Started resource sKnockOut
+[    c-scripting-core] Creating script environments for sModule
+[           resources] Started resource sModule
+[    c-scripting-core] Creating script environments for skin
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/de.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/br.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/en.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/fi.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/fr.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/sv.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/locales/pl.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/config.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `esx_skin/client/main.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/locale.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/locales/fr.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/config.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find client_script `skinchanger/client/main.lua` (defined in fxmanifest.lua:4)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/de.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/br.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/en.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/fi.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/fr.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/sv.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/locales/pl.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/config.lua` (defined in fxmanifest.lua:25)
+[      resources:skin] Warning: could not find server_script `esx_skin/server/main.lua` (defined in fxmanifest.lua:25)
+[           resources] Started resource skin (22 warnings)
+[    c-scripting-core] Creating script environments for zCharacterCreator
+[           resources] Started resource zCharacterCreator
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] server thread hitch warning: timer interval of 300 milliseconds
+[      script:oxmysql] [10.5.18-MariaDB-0+deb11u1] Database server connection established!
+[ citizen-server-impl]         fff                          
+[38;5;73m[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://florian-durrer-ka8jpv.users.cfx.re/
+[      script:esx_hud] [INFO] esx_hud: Latest version: 1.7.0
+[      script:esx_hud] [INFO] esx_hud: Your version: 1.6.0
+[      script:esx_hud] [INFO] esx_hud: You need download latest version! You are using an old version at the moment!
+[      script:oxmysql] An update is available for oxmysql (current version: 2.7.5)
+[      script:oxmysql] https://github.com/overextended/oxmysql/releases/tag/v2.7.7
+[  script:es_extended] [INFO] ESX Legacy 1.9.2 initialized!
+[ script:esx_property] [[32mINFO] Added Property into datastore_data table
+[      script:hardcap] Connecting: Flo_swiss
+[ citizen-server-impl] server thread hitch warning: timer interval of 323 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 208 milliseconds
+[      script:esx_hud] [0m[ERROR] esx_hud: Setup your custom fuel resource at: client/vehicle/fuel.lua
+[ citizen-server-impl] server thread hitch warning: timer interval of 553 milliseconds
+[38;5;220m[  script:es_extended] [INFO] Player "joe delabrand" has connected to the server. ID: 1
+[ citizen-server-impl] server thread hitch warning: timer interval of 180 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 161 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 126 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 171 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 130 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 196 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 136 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 119 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 141 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 109 milliseconds
+[ citizen-server-impl] [0msync thread hitch warning: timer interval of 137 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 130 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 191 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 125 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 182 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 231 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 114 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 189 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 155 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 115 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 176 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 164 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 161 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 104 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 105 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 191 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 115 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 225 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 192 milliseconds
+[  script:es_extended] [INFO[0m] Saved 1 player over 0.0 ms
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms

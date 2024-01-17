@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Florian_Durrer",
+    "master": true,
+    "password_hash": "$2a$11$cDOYlFSr6El0jDEzFyRm9.t0O0l0HElTlDv7mWMRefRcR49jDP8XK",
+    "providers": {
+      "citizenfx": {
+        "id": "Florian_Durrer",
+        "identifier": "fivem:6755919",
+        "data": {
+          "sub": "60deed6e73867da400022de21cdd0292",
+          "nameid": "https://forum.cfx.re/internal/user/6755919",
+          "name": "Florian_Durrer",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/florian_durrer/256/2055184_2.png",
+          "profile": "https://forum.cfx.re/u/Florian_Durrer"
+        }
+      }
+    },
+    "permissions": []
+  }
+]
